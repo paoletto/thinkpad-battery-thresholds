@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Battery Threshold Control
+Comment=ThinkPad battery charge thresholds
+Exec=thresholdctl-gui
+TryExec=thresholdctl-gui
+Icon=battery
+Categories=System;Settings;HardwareSettings;
+Terminal=false
+StartupNotify=false

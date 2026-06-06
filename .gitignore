@@ -1,0 +1,50 @@
+# C++ objects and libs
+
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.dll
+*.dylib
+*.qmlc
+*.jsc
+
+# Qt-es
+
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+*.code-workspace
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*build-*
+/bin
+/features
+
+# QtCreator
+
+*.autosave
+
+# QtCtreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+# QtCtreator CMake
+CMakeLists.txt.user*
+
+# Jekyll build output
+docs/_site/
+
+# qmake generated
+moc_predefs.h
+/build/
+/thresholdctl-gui
